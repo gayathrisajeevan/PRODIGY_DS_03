@@ -16,4 +16,4 @@ Using the Bank Marketing Dataset from the UCI Machine Learning Repository, I fol
 This task improved my understanding of classification models and helped me visualize how decisions are made in a model — crucial in real-world business predictions!
 
 
-#ProdigyInfoTech #MachineLearning #DecisionTree #BankMarketing #Python #DataScience #UCI #InternshipExperience #Classification #EDA #LinkedInLearning
+#MachineLearning #DecisionTree #BankMarketing #Python #DataScience #UCI #InternshipExperience #Classification #EDA 
