@@ -21,6 +21,7 @@ Using the Bank Marketing Dataset from the UCI Machine Learning Repository, I fol
 This task improved my understanding of classification models and helped me visualize how decisions are made within a model — a skill that's crucial for real-world business predictions.
 
 
+--- 
 
 #`MachineLearning` #`DecisionTree` #`BankMarketing` #`Python` #`DataScience` #`UCI` #`Classification` #`EDA` #`InternshipExperience`
 
