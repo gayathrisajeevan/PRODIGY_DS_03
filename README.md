@@ -1,19 +1,26 @@
-The objective of this project was to build a decision tree classifier to predict whether a customer will purchase a product/service based on their demographic and behavioral data.
+**Bank Marketing - Decision Tree Classifier**
 
-Using the Bank Marketing Dataset from the UCI Machine Learning Repository, I followed a structured approach:
+The objective of this project was to build a Decision Tree Classifier to predict whether a customer will purchase a product/service based on their demographic and behavioral data.
+
+Using the Bank Marketing Dataset from the UCI Machine Learning Repository, I followed a structured machine learning workflow.
 
 **Key Steps**:
-- Performed data cleaning and preprocessing (handling categorical features, missing values)
-- Explored data insights via EDA
-- Built and evaluated a Decision Tree Classifier using sklearn
-- Visualized the decision tree structure to interpret key decision rules
+- Data Preprocessing: Handled categorical variables using label encoding and checked for missing values.
+- Exploratory Data Analysis (EDA): Gained insights into customer behavior.
+- Model Building: Trained a Decision Tree Classifier using scikit-learn.
+- Model Evaluation: Assessed performance using accuracy, precision, recall, and confusion matrix.
+- Tree Visualization: Plotted the decision tree to understand key decision paths.
 
 **Tools & Skills Applied**:
 - Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
-- Supervised Machine Learning
-- Classification Metrics (Accuracy, Precision, Recall)
+- Supervised Machine Learning (Classification)
+- Model Evaluation Metrics (Accuracy, Precision, Recall)
+- Decision Tree Visualization
 
-This task improved my understanding of classification models and helped me visualize how decisions are made in a model — crucial in real-world business predictions!
+**What I Learned**:
+This task improved my understanding of classification models and helped me visualize how decisions are made within a model — a skill that's crucial for real-world business predictions.
 
 
-#MachineLearning #DecisionTree #BankMarketing #Python #DataScience #UCI #InternshipExperience #Classification #EDA 
+
+#MachineLearning #DecisionTree #BankMarketing #Python #DataScience #UCI #Classification #EDA #InternshipExperience
+
