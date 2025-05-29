@@ -1,4 +1,4 @@
-**Bank Marketing - Decision Tree Classifier**
+Bank Marketing - Decision Tree Classifier
 
 The objective of this project was to build a Decision Tree Classifier to predict whether a customer will purchase a product/service based on their demographic and behavioral data.
 
